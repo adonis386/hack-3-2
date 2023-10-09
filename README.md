@@ -1,2 +1,2 @@
-# hack-3-2
+# hack-3-2 - Adonis Gonzalez
 Hack 3-2 Flex
